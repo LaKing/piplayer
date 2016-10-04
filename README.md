@@ -1,2 +1,2 @@
 # piplayer
-a tiny script to play looped video after powering on
+A tiny script to play looped video after powering on the default noobs PI
